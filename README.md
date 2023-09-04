@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
-<h3 align="center">A passionate Full-stack developer with background in IT Project Management</h3>
+<h3 align="center">A passionate IT Project Management who wants to deep dive into the topic</h3>
 
 - 🌱 I’m currently learning **React and Redux**
 
